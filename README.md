@@ -11,22 +11,22 @@
 ## Skill  
 
 <div>- 언어 :  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+  	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 <div>- 프레임워크 :  
 	<img src="https://img.shields.io/badge/Django-902e20?style=flat&logo=Django&logoColor=white" />
 </div>
 <div>- 머신 러닝 및 딥 러닝 :  
 	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?Fstyle=flat&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
-  <img src="https://img.shields.io/badge/PyThorch-ee4c2c?style=flat&logo=PyTorch&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+  	<img src="https://img.shields.io/badge/PyThorch-ee4c2c?style=flat&logo=PyTorch&logoColor=white" />
 </div>
 <div>- 클라우드 서버 :  
 	<img src="https://img.shields.io/badge/AWS-232f3e?Fstyle=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569a31?style=flat&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_VPC-E73D2f?style=flat&logo=VPC&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Amazon_S3-569a31?style=flat&logo=amazons3&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Amazon_VPC-E73D2f?style=flat&logo=VPC&logoColor=white" />
 </div>
