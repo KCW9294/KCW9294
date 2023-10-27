@@ -5,7 +5,7 @@
 - 산업공학을 전공. 데이터, 프로그래밍위주의 전공 수업을 들었으며 노인의 이동 특성 분석을 주제로 데이터 분석 논문을 씀.
 - 빅데이터 분석기사, ADsP, SQLD, AICE 자격증 취득
 - KT AIVLE School 3기에서 AI 생성의 모든과정(EDA/전처리/모델링/검증)을 학습했고, AI 기반 웹 서비스를 개발해 최우수상 수상/우수 수료생 수상
-- 웹 애플리케이션 개발 프로젝트에서 배포 및 운영을 경험하여 AWS EC2/VPC/E3와 Linux(ubuntu) 등의 클라우드 및 서버 관리가 가능.
+- 웹 애플리케이션 개발 프로젝트에서 배포 및 운영을 경험하여 AWS EC2/VPC/S3/RDS와 Linux(ubuntu) 등의 클라우드 및 서버 관리가 가능.
 - 다양한 AI 프로젝트와 웹 개발 프로젝트 경험으로 다재다능한 백엔드/AI 개발자
   
 ## Skill  
@@ -21,7 +21,7 @@
 </div>
 <div>- 머신 러닝 및 딥 러닝 :  
 	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?Fstyle=flat&logo=TensorFlow&logoColor=white" />
-  	<img src="https://img.shields.io/badge/Keras-D00000?style=flat&log=Keras&logoColor=white">
+  	<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">
   	<img src="https://img.shields.io/badge/PyThorch-ee4c2c?style=flat&logo=PyTorch&logoColor=white" />
 </div>
 <div>- 클라우드 서버 :  
