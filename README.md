@@ -33,13 +33,15 @@
 
 ## Project
     
-- Chat GPT 기반 GORW코칭 실습 웹 서비스 : KT AIVLE School 3기 Big Project 최우수상 수상  
+- ChatGPT 기반 GORW코칭 실습 웹 서비스 : KT AIVLE School 3기 Big Project 최우수상 수상  
   [Django_Web_Project](https://github.com/KCW9294/web-application-project.git)  
     
 - 2023 미래산업 인재육성 컨퍼런스 : 장애인/노인 요양원 폭력, 낙상 감지 모델 개발
+- 
   [폭력, 낙상 객체 인식 모델](https://github.com/KCW9294/Object-detection-model.git)    
       
-- 백준&프로그래머스 문제풀이 모음집: 
+- 백준&프로그래머스 문제풀이 모음집:
+- 
   [문제풀이_보러가기](https://github.com/KCW9294/Algorithm.git)    
   
       
