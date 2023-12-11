@@ -2,7 +2,7 @@
 
 ## 간단한 소개
 
-- 산업공학을 전공. 데이터, 프로그래밍 위주의 전공 수업을 들었으며 서울시 노인의 이동 특성 분석을 주제로 졸업 프로젝트 진행.
+- 산업공학을 전공. 데이터, 프로그래밍 위주의 전공 수업을 들었으며 "서울시 노인의 이동 특성 분석"을 주제로 졸업 프로젝트 진행.
 - 빅데이터 분석기사, ADsP, SQLD, AICE 자격증 취득.
 - KT AIVLE School 3기에서 AI 생성의 모든 과정(EDA/전처리/모델링/검증)을 학습했고, AI 기반 웹 서비스를 개발해 최우수상 수상/우수 수료.
 - 웹 애플리케이션 개발 프로젝트에서 ChatGPT, google API 등 최신 API를 활용하여 기능들을 구현하였으며 서버 배포 및 운영을 통해 AWS EC2/VPC/RDS와 Linux(ubuntu)환경을 경험.
@@ -35,7 +35,7 @@
 - ChatGPT 기반 GORW코칭 실습 웹 서비스 : KT AIVLE School 3기 Big Project 최우수상 수상  
   [Django_Web_Project](https://github.com/KCW9294/web-application-project.git)  
     
-- 2023 미래산업 인재육성 컨퍼런스 : 장애인/노인 요양원 폭력, 낙상 감지 모델 개발             
+- 2023 미래산업 인재육성 컨퍼런스 공모전 : 장애인/노인 요양원 폭력, 낙상 감지 모델 개발             
   [폭력, 낙상 객체 인식 모델](https://github.com/KCW9294/Object-detection-model.git)    
       
 - 백준&프로그래머스 문제풀이 모음집 : 1일1문제 풀기 진행중              
